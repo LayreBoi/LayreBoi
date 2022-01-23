@@ -9,4 +9,4 @@ Ayo, I also now develop my own Friday Night Funkin' mod with my character Gemash
 
 Contact: [Email](mailto:contact@layreboi.me)
 
-[xthedrew website](https://xthedrew.indie.af/) | [LayreBoi website](https://layreboi.github.io)
+[xthedrew website](https://xtdrew.xyz/) | [LayreBoi website](https://layreboi.me/)
