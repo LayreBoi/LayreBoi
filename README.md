@@ -1,4 +1,4 @@
-# LΛYRΞBOI | XTHΞDRƎW
+# LΛYRΞBOI | xtdrew
 Hi, I'm just doing something on my website here on Github...
 
 Ayo, I also now develop my own Friday Night Funkin' mod with my character Gemashy!
