@@ -6,4 +6,4 @@ Yo, people online call me Layre.
 
 Contact: [Email](mailto:layreboi@mailayre.com)
 
-[xthedrew website (dev)](https://xtdrew.xyz/) | [LayreBoi website (music)](https://next.layreboi.me/) | [LΛYRΞ.LOL](https://www.layre.lol/)
+[xthedrew website (dev)](https://xtdrew.xyz/) | [LayreBoi website (music)](https://layreboi.me/) | [LΛYRΞ.LOL](https://www.layre.lol/)
