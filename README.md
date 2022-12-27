@@ -10,6 +10,7 @@ A young programmer and musical artist
 
 ```yaml
 webs:
+  main: "https://mailayre.com"
   music:  "https://layreboi.me/"
   dev:    "https://xtdrew.xyz/"
   links:  "https://www.layre.lol/"
