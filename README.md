@@ -54,5 +54,9 @@ discord: "layreboi"
   - [Angular](https://vuejs.org/)
   - [Express](https://expressjs.com/)
   - [Spring](https://spring.io/)
+
+  ### Databases
+  - [PostgreSQL](https://www.postgresql.org/)
+  - [MongoDB](https://www.mongodb.com/)
   
 </details>
