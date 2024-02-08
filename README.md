@@ -9,7 +9,7 @@
 
 <details><summary>About me</summary>
   
-  > Hi, I'm Pierre. I love to experiment around with coding and study application development. As hobbies I mess around with server infrastructures, also program applications, and make music under the name of "LayreBoi", as I grew up with my musical parents.
+  > Hi, I'm Pierre. I love to experiment around with coding and study application development. As hobbies I mess around with server infrastructures, also program applications (as a full-stack developer), and make music under the name of "LayreBoi", as I grew up with my musical parents.
   > (I'm an electronic guy xd)
 </details>
 
